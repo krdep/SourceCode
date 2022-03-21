@@ -2,3 +2,5 @@
 	stworzenie pliku
 2. zmiana nr 2 po wykonaniu commit
 	dodanie linii 3 i 4
+3. nowa linia
+	linia trzecia
